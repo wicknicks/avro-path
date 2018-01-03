@@ -17,7 +17,7 @@ Given an Avro document such as the following:
         "price": 23.99
       },
       {
-        "author": "Les Miserables",
+        "author": "Les Misérables",
         "title": "Victor Hugo",
         "price": 18.50
       }
