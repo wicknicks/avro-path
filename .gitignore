@@ -1,0 +1,15 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+
+# Python 
+*.pyc
+
+# Logs
+*.logs
+*.times
+*.out
