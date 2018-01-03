@@ -1,6 +1,6 @@
-# avropath
+# avro-path
 
-Avropath can be used to execute XPath like expressions on Avro documents. 
+avro-path can be used to execute XPath like expressions on Avro documents. 
 
 Given an Avro document such as the following: 
 
